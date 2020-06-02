@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "MUAHMMAD SAMI"
 title_separator          : "-"
-name                     : &name "Muhammad Sami"
+name                     : &name "MUHAMMAD SAMI"
 description              : &description "Machine Learning Engineer || Data Scientist || Electrical Engineer || RF Engineer || Medical System Engineer || DSP Engineer"
 url                      : https://sami-csulb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

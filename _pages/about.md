@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Machine Learning Engineer || Data Scientist || Electrical Engineer || RF Engineer || Medical System Engineer || DSP Engineer"
-excerpt: "Machine Learning Engineer || Data Scientist || Electrical Engineer || RF Engineer || Medical System Engineer || DSP Engineer"
+title: "Machine Learning Engineer | Data Scientist | Electrical Engineer | RF Engineer | Medical System Engineer | DSP Engineer"
+excerpt: "Machine Learning Engineer | Data Scientist | Electrical Engineer | RF Engineer | Medical System Engineer | DSP Engineer"
 author_profile: true
 redirect_from: 
   - /about/
